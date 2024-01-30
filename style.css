@@ -27,7 +27,7 @@ input::placeholder {
 body {
   min-height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-    url("Assets/bg.png");
+    url("assets/bg.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
